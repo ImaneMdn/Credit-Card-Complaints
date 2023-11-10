@@ -15,3 +15,8 @@
 - Can I Download This Stuff?
 - How Are Complaints Spread Across States?
 - What's the Overall Trend?
+
+### How to Use
+Select Filters: Utilize the filters to narrow down the data based on your specific criteria.
+Explore Questions: Each section of the dashboard addresses a specific question. Click on legends or data points to find answers and gain insights.
+Data Exploration: Hover over data points to view detailed information and explore the nuances of the dataset.
